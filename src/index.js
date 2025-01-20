@@ -1,7 +1,3 @@
-import _ from "lodash";
+import _ from 'lodash';
 
-export default () => {
-   return _.last(['one', 'two']);
-};
-
-
+export default () => _.last(['one', 'two']);
