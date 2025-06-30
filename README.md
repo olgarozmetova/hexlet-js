@@ -1,1 +1,2 @@
-My project on Hexlet
+JS Tasks
+# hexlet-js-tasks
